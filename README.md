@@ -22,7 +22,7 @@ If not, the script will automatically install them.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/genetic-encryption.git
+   git clone https://github.com/Woffluon/genetic-encryption.git
    cd genetic-encryption
    ```
 2. Run the script:
